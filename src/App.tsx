@@ -1,10 +1,10 @@
 import { useState } from "react";
 
-import "./App.css";
+import "./App.scss";
 
 function App() {
   const [count, setCount] = useState(0);
-
+  console.log(import.meta.env.VITE_SOME_KEY);
   return (
     <>
       <h1>Vite + React</h1>

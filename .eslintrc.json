@@ -36,5 +36,5 @@
       "version": "detect"
     }
   },
-  "ignorePatterns": ["vite.config.ts", "dist/", "node_modules/"]
+  "ignorePatterns": ["vite-env.d.ts", "vite.config.ts", "dist/", "node_modules/"]
 }
