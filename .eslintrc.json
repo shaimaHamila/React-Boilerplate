@@ -35,6 +35,5 @@
     "react": {
       "version": "detect"
     }
-  },
-  "ignorePatterns": ["vite-env.d.ts", "vite.config.ts", "dist/", "node_modules/"]
+  }
 }
