@@ -23,3 +23,4 @@ This boilerplate provides a solid foundation for building React applications wit
    or
    docker compose up
    ```
+<img width="583" alt="reactBoilerplate" src="https://github.com/user-attachments/assets/9ffea212-6d02-445b-b9d9-90b5f2e6cdda">
