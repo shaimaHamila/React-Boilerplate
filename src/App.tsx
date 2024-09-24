@@ -14,7 +14,7 @@ function App() {
   console.log(import.meta.env.VITE_ENVIRONMENT);
   return (
     <>
-      <h1>Vite + React</h1>
+      <h1>React-boilerplate</h1>
       <div>
         <div>
           <h2> List of users </h2>

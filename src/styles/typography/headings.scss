@@ -1,8 +1,14 @@
-/* 
-Defines the typography of vanlog.
-Will be used in the whole project.
-Font used is Inter.
-*/
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
+
+/* apply style to whole website */
+body {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: var(--color-white);
+}
 
 h1,
 h2,
@@ -88,54 +94,4 @@ p {
   .heading-xs {
     font-size: 14px;
   }
-}
-
-.text-6xl {
-  font-size: 60px;
-  line-height: 150%;
-}
-
-.text-5xl {
-  font-size: 48px;
-  line-height: 150%;
-}
-
-.text-4xl {
-  font-size: 36px;
-  line-height: 150%;
-}
-
-.text-3xl {
-  font-size: 30px;
-  line-height: 150%;
-}
-
-.text-2xl {
-  font-size: 24px;
-  line-height: 150%;
-}
-
-.text-xl {
-  font-size: 20px;
-  line-height: 150%;
-}
-
-.text-lg {
-  font-size: 18px;
-  line-height: 150%;
-}
-
-.text-md {
-  font-size: 16px;
-  line-height: 150%;
-}
-
-.text-sm {
-  font-size: 14px;
-  line-height: 150%;
-}
-
-.text-xs {
-  font-size: 12px;
-  line-height: 150%;
 }
